@@ -1,4 +1,4 @@
-# Power-Drift-English-Translation
+# Power-Drift-English-"Translation"
 
 <div align="center"><img width="500" alt="Tama_Sega_Saturn_splash_cover" /></div>
 
@@ -12,15 +12,21 @@
 1. [Release Changelog](#Release-Changelog)
 
 ## **Overview**
-Did anyone ask for this translation? No. But look at those flat-shaded polys, how can you not love them??
+I settled down over the weekend to play the Sega Saturn version of Power Drift, and as I started the first race and was greeted with flashing blue Japanese text, I thought, "Wait, didn't this game have English text sprites in the worldwide arcade release?"
 
-Besides that, I felt Tama needed a translation because it reminds me of the countless hours spent at my grandma's playing with a wooden ball labyrinth that she had. It's a fun little game, and it does have a semblance of story (you're not just playing a game here, you're protecting all of existence), so all the more reason to add it to my romhacking catalogue. 
+And my memory did not deceive me--it did! I decided to investigate if I could bring the arcade's English sprites over to the Japanese Saturn release--
 
-All story elements, including that lovely story overview above, have been translated thanks to **wiredcrackpot**. The following changes have been made:
+**Whoa whoa, hold up. How much of the Saturn game was in Japanese?**
 
-- Horizontal rendering for opening cutscene and loading screens + translated
-- Translated level intro dialogue
-- Translated ending dialogue
+In total, seven sprites.
+
+**SEVEN?! So you just ported over seven sprites and called it a translation?**
+
+Well, yeah, but you see, now it makes the Saturn version entirely in English. Plus, there was the work of finding the sprites in the arcade rom, then finding--
+
+**Yeah, whatever, dude. The word "translation" is doing a LOT of stretching here... are you really gonna make me read more of the bloviated ReadMe?**
+
+Fine... no. Just get the damn patch from the Releases tab!
 
 
 ## **Screenshots**
@@ -78,14 +84,14 @@ The patch is shipped as an XDelta patch.
 1. Grab an XDelta patching utility like <a href='https://www.romhacking.net/utilities/704/'>Delta Patcher</a>
 2. Unzip patch bundle
 3. Open **'DeltaPatcher.exe'**
-4. For the Original File, locate Track 01 of the original Tama disc (for example: <kbd>Tama - Adventurous Ball in Giddy Labyrinth (Japan) (Track 01).bin</kbd> )
+4. For the Original File, locate Track 01 of the original Power Drift disc (for example: <kbd>Sega Ages - Power Drift (Japan) (Track 01).bin</kbd> )
 5. Locate the <kbd>Tama_English_Translation_v1.0.xdelta</kbd> patch.
 6. Click **'Apply Patch'**
 7. If successful, Track 01 will be replaced with the patched track.
 
 **--> Important! <--**
-- Tested with release <kbd>Tama - Adventurous Ball in Giddy Labyrinth (Japan)</kbd>
-- Tested in Ymir, Kronos, and Mednafen emulators, and on real hardware with Satiator.
+- Tested with release <kbd>Sega Ages - Power Drift (Japan)</kbd>
+- Tested in Ymir and Mednafen emulators, and on real hardware with Satiator.
 
 ## Helpful Game Tips ##
 
@@ -95,15 +101,13 @@ The patch is shipped as an XDelta patch.
 ## **Credits**
 
 **Translation**
-- wiredcrackpot
+- Sega AM2
 
 **Texture Art**
-- Exxistance
+- Sega AM2
 
 **QA**
 - Exxistance
-- wonder-inc
-
 
 
 ## **Release Changelog**

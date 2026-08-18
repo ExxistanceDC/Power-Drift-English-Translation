@@ -53,11 +53,11 @@ Fine... no. Just get the damn patch from the Releases tab!
 <table>
   <tr>
     <td><strong>Original Title</strong></td>
-    <td>たま</td>
+    <td>SEGA AGES パワードリフト</td>
   </tr>
   <tr>
     <td><strong>Localized Title</strong></td>
-    <td>Tama: Adventurous Ball in Giddy Labyrinth</td>
+    <td>SEGA AGES: Power Drift</td>
   </tr>
   <tr>
     <td><strong>Developer</strong></td>

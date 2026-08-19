@@ -28,6 +28,8 @@ Well, yeah, but you see, now it makes the Saturn version entirely in English. Pl
 
 Fine... no. Just get the damn patch from the Releases tab!
 
+(Oh, and if you just happened to stumble on this repo and genuinely don't know what Power Drift is, you can read about it over on <a href="https://en.wikipedia.org/wiki/Power_Drift">Wikipedia!</a>)
+
 
 ## **Screenshots**
 

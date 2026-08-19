@@ -75,7 +75,7 @@ The patch is shipped as an XDelta patch.
 2. Unzip patch bundle
 3. Open **'DeltaPatcher.exe'**
 4. For the Original File, locate Track 01 of the original Power Drift disc (for example: <kbd>Sega Ages - Power Drift (Japan) (Track 01).bin</kbd> )
-5. Locate the <kbd>Tama_English_Translation_v1.0.xdelta</kbd> patch.
+5. Locate the <kbd>Power_Drift_English_Translation_Really_Dude_Its_Barely_a_Hack_Patch.xdelta</kbd> patch.
 6. Click **'Apply Patch'**
 7. If successful, Track 01 will be replaced with the patched track.
 
@@ -85,7 +85,7 @@ The patch is shipped as an XDelta patch.
 
 ## Helpful Game Tips ##
 
-- 
+- I got nothin'. I kinda suck at this game, but I just love that beautiful Super Scaler look.
 
 
 ## **Credits**
@@ -102,6 +102,6 @@ The patch is shipped as an XDelta patch.
 
 ## **Release Changelog**
 
-- **Version 1.0. (07/15/2026)**
+- **Version 1.0. (08/18/2026)**
   - Initial release
 

@@ -33,19 +33,10 @@ Fine... no. Just get the damn patch from the Releases tab!
 
 <!-- Row 1 -->
 <p>
-  <img width="500" alt="Title Screen" src="https://github.com/user-attachments/assets/47f0d468-5d32-4447-b072-0e978bb52a27" />
-  <img width="500" alt="Gameplay_screenshot" src="https://github.com/user-attachments/assets/9e1cb210-fe84-4b14-82f5-b05ec9e6c74d" />
+  <img width="500" alt="Place Instructions" src="https://github.com/user-attachments/assets/34e8dc03-fda1-4d9e-b7c9-5dfceaf85e2b" />
+ />
+  <img width="500" alt="Stage Intro" src="https://github.com/user-attachments/assets/99446dae-a9e2-48f4-81da-076e93c65faf" />
 </p>
-
-<!-- Row 2 -->
-<p>
-  <img width="500" alt="Choose_Professional"  src="https://github.com/user-attachments/assets/867c06f8-bdbf-4da1-a3c1-a10644d636b8" />
-  <img width="500" alt="Options" src="https://github.com/user-attachments/assets/a978e87d-e52b-4473-a7dc-3a8cbe2acf16"</>  
-</p>
-
-
-
-
 
 ## **About the Game**
 
@@ -69,7 +60,7 @@ Fine... no. Just get the damn patch from the Releases tab!
   </tr>
     <tr>
     <td><strong>Original Release Date</strong></td>
-    <td>1994-11-22</td>
+    <td>1998-02-26</td>
   </tr>
  </table>
 </div>

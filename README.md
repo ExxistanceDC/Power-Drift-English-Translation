@@ -24,7 +24,7 @@ In total, seven sprites.
 
 Well, yeah, but you see, now it makes the Saturn version entirely in English. Plus, there was the work of finding the sprites in the arcade rom, then finding--
 
-**Yeah, whatever, dude. The word "translation" is doing a LOT of stretching here... are you really gonna make me read more of this bloviated ReadMe?**
+**Yeah, whatever, dude. The word "translation" is doing a LOT of heavy lifting here... are you really gonna make me read more of this bloviated ReadMe?**
 
 Fine... no. Just get the damn patch from the Releases tab!
 

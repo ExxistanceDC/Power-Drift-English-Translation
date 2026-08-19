@@ -1,4 +1,4 @@
-# Power-Drift-English-"Translation"
+# Power Drift English "Translation"
 
 <div align="center"><img width="500" alt="Power_Drift_splash_cover"src="https://github.com/user-attachments/assets/4c16bb4f-220c-4f35-938a-e7aa274290e7" /></div>
 
@@ -102,6 +102,6 @@ The patch is shipped as an XDelta patch.
 
 ## **Release Changelog**
 
-- **Version 1.0. (08/18/2026)**
+- **Version 1.0 (08/18/2026)**
   - Initial release
 

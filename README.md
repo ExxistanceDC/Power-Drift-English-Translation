@@ -1,6 +1,6 @@
 # Power-Drift-English-"Translation"
 
-<div align="center"><img width="500" alt="Tama_Sega_Saturn_splash_cover" /></div>
+<div align="center"><img width="500" alt="Power_Drift_splash_cover"src="https://github.com/user-attachments/assets/4c16bb4f-220c-4f35-938a-e7aa274290e7" /></div>
 
 ## Table of Contents
 1. [Overview](#Overview)
@@ -24,7 +24,7 @@ In total, seven sprites.
 
 Well, yeah, but you see, now it makes the Saturn version entirely in English. Plus, there was the work of finding the sprites in the arcade rom, then finding--
 
-**Yeah, whatever, dude. The word "translation" is doing a LOT of stretching here... are you really gonna make me read more of the bloviated ReadMe?**
+**Yeah, whatever, dude. The word "translation" is doing a LOT of stretching here... are you really gonna make me read more of this bloviated ReadMe?**
 
 Fine... no. Just get the damn patch from the Releases tab!
 
@@ -34,7 +34,6 @@ Fine... no. Just get the damn patch from the Releases tab!
 <!-- Row 1 -->
 <p>
   <img width="500" alt="Place Instructions" src="https://github.com/user-attachments/assets/34e8dc03-fda1-4d9e-b7c9-5dfceaf85e2b" />
- />
   <img width="500" alt="Stage Intro" src="https://github.com/user-attachments/assets/99446dae-a9e2-48f4-81da-076e93c65faf" />
 </p>
 
@@ -52,11 +51,11 @@ Fine... no. Just get the damn patch from the Releases tab!
   </tr>
   <tr>
     <td><strong>Developer</strong></td>
-    <td>Time Warner Interactive</td>
+    <td>Phant / USP</td>
   </tr>
   <tr>
     <td><strong>Publisher</strong></td>
-    <td>Time Warner Interactive</td>
+    <td>SEGA</td>
   </tr>
     <tr>
     <td><strong>Original Release Date</strong></td>

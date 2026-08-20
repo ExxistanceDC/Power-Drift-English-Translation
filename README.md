@@ -104,6 +104,10 @@ The patch is shipped as an XDelta patch.
 
 ## **Release Changelog**
 
+- **Version 1.0.1 (08/19/2026)**
+  - Fixes a black screen crash upon starting a race on real hardware. (Thank you Double Dime for reporting!)
+
+
 - **Version 1.0 (08/18/2026)**
   - Initial release
 

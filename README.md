@@ -104,6 +104,9 @@ The patch is shipped as an XDelta patch.
 
 ## **Release Changelog**
 
+- **Version 1.0.2 (11/1/2026)**
+  - Fixed untranslated "save warning" screens (Can't believe I missed these... amateur hour!)
+
 - **Version 1.0.1 (08/19/2026)**
   - Fixes a black screen crash upon starting a race on real hardware. (Thank you Double Dime for reporting!)
 
